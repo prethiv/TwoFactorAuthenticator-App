@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/authicon2.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/authicon2.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -31,5 +31,5 @@
     },
     "privacy": "unlisted"
   }
-  
+
 }
