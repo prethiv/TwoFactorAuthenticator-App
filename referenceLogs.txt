@@ -1,0 +1,44 @@
+PS D:\Projects\Mobile Projects\TwoFactorAuth> expo publish
+An Expo user account is required to proceed.
+√ How would you like to authenticate? » Make a new Expo account
+√ Opened https://expo.io/signup in your web browser.
+
+Log in with expo login after you have created your account through the website.
+PS D:\Projects\Mobile Projects\TwoFactorAuth> expo publish
+An Expo user account is required to proceed.
+√ How would you like to authenticate? » Log in with an existing Expo account
+√ Username/Email Address: ... prethiv191@gmail.com
+√ Password: ... *********************
+
+Success. You are now logged in as prethiv.
+
+› Expo SDK: 41.0.0
+› Release channel: default
+› Workflow: Managed
+
+Building optimized bundles and generating sourcemaps...
+Starting Metro Bundler
+Finished building JavaScript bundle in 22666ms.
+
+Bundle                     Size
+┌ index.ios.js           852 kB
+├ index.android.js       858 kB
+├ index.ios.js.map      3.37 MB
+└ index.android.js.map  3.39 MB
+
+💡 JavaScript bundle sizes affect startup time. Learn more: https://expo.fyi/javascript-bundle-sizes
+
+Analyzing assets
+Saving assets
+uploading \assets\authicon2.png
+
+Processing asset bundle patterns:
+- D:\Projects\Mobile Projects\TwoFactorAuth\**\*
+
+Uploading JavaScript bundles
+Publish complete
+
+📝  Manifest: https://exp.host/@prethiv/TwoFactorAuth/index.exp?sdkVersion=41.0.0 Learn more: https://expo.fyi/manifest-url
+⚙️   Project page: https://expo.io/@prethiv/TwoFactorAuth Learn more: https://expo.fyi/project-page
+
+PS D:\Projects\Mobile Projects\TwoFactorAuth> 
